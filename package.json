@@ -1,14 +1,14 @@
 {
-    "name": "pegen-peg",
-    "displayName": "Pegen PEG Grammar Highlighting",
+    "name": "pegen-peg-cdce8p",
+    "displayName": "Pegen PEG Grammar Highlighting - Custom",
     "description": "Syntax highlighting for the PEG syntax that the pegen project uses",
     "version": "0.4.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/lysnikolaou/pegen-peg-highlighting"
+        "url": "https://github.com/cdce8p-forks/pegen-peg-highlighting"
     },
     "license": "MIT",
-    "publisher": "lysnikolaou",
+    "publisher": "cdce8p",
     "icon": "images/pegen-icon-256.png",
     "engines": {
         "vscode": "^1.74.0"
